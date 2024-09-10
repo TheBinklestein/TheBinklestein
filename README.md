@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheBinklestein
-- 👀 I’m interested in golf, paddle sports, and interesting people
-- 🌱 I’m currently learning technical things
-- 💞️ I’m looking to collaborate on technical things
+- 👀 I like golf, paddle sports, and interesting people
+- 🌱 I’m currently learning "technical things"
 - 📫 How to reach me - https://www.linkedin.com/in/m-kyle-binkley/
 - ⚡ Fun fact: I really have no idea what I'm doing
 
